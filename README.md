@@ -17,7 +17,7 @@
 ### ▶️ Youtube
 
 - [What is U-Net?](https://www.youtube.com/watch?v=azM57JuQpQI)
-- [Autoencoder Explained](https://www.youtube.com/watch?v=H1AllrJ-_30)
+- [What is an autoencoder](https://www.youtube.com/watch?v=Rdpbnd0pCiI)
 - [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
 
 ### 🌐 Internet
