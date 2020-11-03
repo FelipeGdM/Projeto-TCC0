@@ -13,6 +13,17 @@
 - **Reconstruction of Occluded Text in Images for Optical Character Recognition**
   - [Repo](https://github.com/DiaaEsmail/Reconstruction-of-occluded-text-in-images-for-OCR-using-PConv)
   - [Paper](https://github.com/DiaaEsmail/Reconstruction-of-occluded-text-in-images-for-OCR-using-PConv/blob/master/Dia2019_MA.pdf)
+- **Image Inpainting Project based on CVPR 2020 Oral Paper on HiFill**
+  - [Repo](https://github.com/Atlas200dk/sample-imageinpainting-HiFill)
+  - [Paper](https://arxiv.org/abs/2005.09704)
+- **Generative Multi-column Convolutional Neural Networks inpainting model in Keras**
+  - [Repo](https://github.com/tlatkowski/inpainting-gmcnn-keras)
+  - [Paper](https://arxiv.org/pdf/1810.08771.pdf)
+- **Image Fine-grained Inpainting**
+  - [Repo](https://github.com/Zheng222/DMFN)
+  - [Paper](https://arxiv.org/pdf/2002.02609.pdf)
+
+Papers with code image inpainting [link](https://paperswithcode.com/task/image-inpainting)
 
 ### ▶️ Youtube
 
