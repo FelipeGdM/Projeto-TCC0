@@ -4,6 +4,17 @@
 
 ### 🐈 Github
 
+- **StyleGAN**
+  - [Repo](https://github.com/NVlabs/stylegan)
+  - [Paper](https://arxiv.org/pdf/1812.04948.pdf)
+- **StyleGAN2**
+  - [Repo](https://github.com/NVlabs/stylegan2)
+  - [Paper](https://arxiv.org/pdf/1912.04958.pdf)
+- **StyleGAN2-ADA**
+  - [Repo](https://github.com/NVlabs/stylegan2-ada)
+  - [Paper](https://arxiv.org/pdf/2006.06676.pdf)
+- **StyleGAN encoder**
+  - [Repo](https://github.com/pbaylies/stylegan-encoder)
 - **Interpreting the Latent Space of GANs for Semantic Face Editing**
   - [Repo](https://github.com/genforce/interfacegan)
   - [Paper1](https://arxiv.org/pdf/1907.10786.pdf)
