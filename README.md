@@ -4,6 +4,11 @@
 
 ### 🐈 Github
 
+- **Interpreting the Latent Space of GANs for Semantic Face Editing**
+  - [Repo](https://github.com/genforce/interfacegan)
+  - [Paper1](https://arxiv.org/pdf/1907.10786.pdf)
+  - [Paper2](https://arxiv.org/pdf/2005.09635.pdf)
+  - [Slides](https://genforce.github.io/interfacegan/)
 - **Rethinking Image Inpainting**
   - [Repo](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE)
   - [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470715.pdf)
@@ -25,11 +30,14 @@
 
 Papers with code image inpainting [link](https://paperswithcode.com/task/image-inpainting)
 
+ConvNet Drawer - Python script for illustrating Convolutional Neural Networks (CNN) [link](https://github.com/yu4u/convnet-drawer).
+
 ### ▶️ Youtube
 
 - [What is U-Net?](https://www.youtube.com/watch?v=azM57JuQpQI)
 - [What is an autoencoder](https://www.youtube.com/watch?v=Rdpbnd0pCiI)
 - [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
+- [Face editing with Generative Adversarial Networks](https://www.youtube.com/watch?v=dCKbRCUyop8)
 
 ### 🌐 Internet
 
