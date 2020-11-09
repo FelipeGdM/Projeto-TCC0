@@ -38,6 +38,7 @@ ConvNet Drawer - Python script for illustrating Convolutional Neural Networks (C
 - [What is an autoencoder](https://www.youtube.com/watch?v=Rdpbnd0pCiI)
 - [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
 - [Face editing with Generative Adversarial Networks](https://www.youtube.com/watch?v=dCKbRCUyop8)
+- [How to Setup GPU for TensorFlow in the Cloud](https://www.youtube.com/watch?v=pwdAymJT5TA)
 
 ### 🌐 Internet
 
